@@ -1,11 +1,44 @@
 # MSc-TBE-Thesis---Rosemary-Beetle
-A repository containing the contents for the final semester research project of Indi Rick, on the invasion dynamics of the rosemary beetle (Chrysolina americana).
+A repository containing the contents for the final semester research project of Indi Rick, on the invasion dynamics of the rosemary beetle (Chrysolina americana). The associated presentation can be found clicking this link (ArcGIS StoryMaps: )
 
-# Link to the associated presentation:
+# Contents of the repository
 
--ArcGIS StoryMaps:
+CORE
 
-# Links to the software used:
+-Research_Paper.pdf: The paper at the heart of the project.
+
+-Graphical_Abstract.pdf: 
+
+-Rosemary_Beetle_Thesis_Code.R/pdf: 
+
+HIGH RESOLUTION MAPS:
+
+-Map_TotalCa.pdf
+
+-Map_PopDensitySqKm.pdf
+
+-Map_DensityCoefficient.pdf
+
+-Map_Temperature_Base.pdf
+
+-Map_Temperature_15.pdf
+
+-Map_Temperature_25.pdf
+
+-Map_Temperature_40.pdf
+
+DEVELOPMENT PROCESS
+
+-GenAI_Use_Disclosure.docx: 
+
+-Proposal_Signed.pdf: 
+
+-Results_Checkpoint.pdf: 
+
+
+# Links to resources used
+
+SOFTWARE USED:
   
 -R: https://www.r-project.org/
 
@@ -13,7 +46,7 @@ A repository containing the contents for the final semester research project of 
 
 -ArcGIS: https://www.esri.com/en-us/home
 
-# Links to the datasets used:
+DATASETS USED:
   
 -C. americana occurences: https://www.gbif.org/dataset/cb7c2913-e387-4fbe-9e57-a2f24ed3d88c
 
@@ -27,7 +60,8 @@ A repository containing the contents for the final semester research project of 
 
 -Northern Ireland population & boundaries: https://www.nisra.gov.uk/support/geography/super-data-zones-census-2021
 
-# Details of the submission:
+
+# Details of the paper submission:
   
 -Title: QUANTIFYING RECORDER EFFORT, CLIMATE BASELINES, AND URBAN INFRASTRUCTURE AS DRIVERS OF THE ROSEMARY BEETLE (CHRYSOLINA AMERICANA) INVASION IN THE UK.
 
