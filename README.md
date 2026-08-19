@@ -5,35 +5,35 @@ A repository containing the contents for the final semester research project of 
 
 CORE
 
--Research_Paper.pdf: The paper at the heart of the project.
+-Research_Paper.pdf: the paper at the heart of the project.
 
--Graphical_Abstract.pdf: 
+-Graphical_Abstract.pdf: the graphical abstract at the front page, but in higher resolution.
 
--Rosemary_Beetle_Thesis_Code.R/pdf: 
+-Rosemary_Beetle_Thesis_Code.R/pdf: the entire R pipeline used for the project, in two formats.
 
 HIGH RESOLUTION MAPS:
 
--Map_TotalCa.pdf
+-Map_TotalCa.pdf: map of total C. americana observations (count) per ward.
 
--Map_PopDensitySqKm.pdf
+-Map_PopDensitySqKm.pdf: map of human population density (people/km²) per ward.
 
--Map_DensityCoefficient.pdf
+-Map_DensityCoefficient.pdf: map of density coefficients (observations / population density) per ward.
 
--Map_Temperature_Base.pdf
+-Map_Temperature_Base.pdf: map of predicted abundance for baseline climate simulation.
 
--Map_Temperature_15.pdf
+-Map_Temperature_15.pdf: map of predicted abundance for +1.5 °C above baseline climate simulation.
 
--Map_Temperature_25.pdf
+-Map_Temperature_25.pdf: map of predicted abundance for +2.5 °C above baseline climate simulation.
 
--Map_Temperature_40.pdf
+-Map_Temperature_40.pdf: map of predicted abundance for +4.0 °C above baseline climate simulation.
 
 DEVELOPMENT PROCESS
 
--GenAI_Use_Disclosure.docx: 
+-GenAI_Use_Disclosure.docx: form for the ethical usage of generative AI associated with this project.
 
--Proposal_Signed.pdf: 
+-Proposal_Signed.pdf: proposal describing the conceptual stage of the project, methods differ from the final product.
 
--Results_Checkpoint.pdf: 
+-Results_Checkpoint.pdf: halfway point descibing the progress of the project, methods and results differ from the final product.
 
 
 # Links to resources used
