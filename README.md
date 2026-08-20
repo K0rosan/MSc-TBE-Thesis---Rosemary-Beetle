@@ -11,6 +11,7 @@ CORE
 
 -Main_Coding_Script.R/pdf: the entire R pipeline used for the project, in two formats.
 
+
 HIGH RESOLUTION MAPS:
 
 -Map_H1_TotalCa.pdf: map of total C. americana observations (count) per ward.
@@ -26,6 +27,7 @@ HIGH RESOLUTION MAPS:
 -Map_H4_Temp25C.pdf: map of predicted abundance for +2.5 °C above baseline climate simulation.
 
 -Map_H4_Temp40C.pdf: map of predicted abundance for +4.0 °C above baseline climate simulation.
+
 
 DEVELOPMENT PROCESS
 
@@ -45,6 +47,7 @@ SOFTWARE USED:
 -Positron: https://posit.co/
 
 -ArcGIS: https://www.esri.com/en-us/home
+
 
 DATASETS USED:
   
