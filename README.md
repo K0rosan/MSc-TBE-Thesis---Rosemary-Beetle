@@ -1,5 +1,5 @@
 # MSc Taxonomy, Biodiversity & Evolution - Final Research Project - The Rosemary Beetle Invasion
-A repository containing the contents for the final semester research project of Indi Rick, on the invasion dynamics of the rosemary beetle (Chrysolina americana). The associated presentation can be found clicking this link (ArcGIS StoryMaps: https://storymaps.arcgis.com/briefings/aa8b1c838de64819a3a2a21cf296ad21))
+A repository containing the contents for the final semester research project of Indi Rick, on the invasion dynamics of the rosemary beetle (Chrysolina americana). The associated presentation can be found clicking this link ([ArcGIS StoryMaps]([url](https://storymaps.arcgis.com/briefings/aa8b1c838de64819a3a2a21cf296ad21)))
 
 # Contents
 
