@@ -3,7 +3,7 @@ A repository containing the contents for the final semester research project of 
 
 # Links to presentation & blog of the project
 
-ArcGIS StoryMaps Briefing: https://storymaps.arcgis.com/briefings/aa8b1c838de64819a3a2a21cf296ad21
+ArcGIS StoryMaps Briefing: https://arcg.is/04XyPC2
 
 ArcGIS StoryMaps Story: TBA
 
@@ -88,6 +88,8 @@ DATASETS:
 
 -Date submitted: 20/08/2026
 
+-Date modified: 28/08/2026
+
 -Words: ~7000 (from part I to V, discounting figure captions, headings, & in-text citations)
 
--Pages: 43
+-Pages: 42
